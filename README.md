@@ -1,1 +1,2 @@
-About Data Structure Codes and Oprations.
+IN DATA STRUCTURE --
+  LINKLIST PROGRAMME AND OPRATIONS
