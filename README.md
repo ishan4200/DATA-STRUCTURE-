@@ -1,2 +1,1 @@
-# DATA-STRUCTURE-
----LinkedList Programe
+About Data Structure Codes and Oprations.
